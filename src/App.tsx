@@ -12,7 +12,7 @@ function App() {
         Calculadora de Propina
       </header>
       <main className=" max-w-7xl mx-auto  py-18 grid md:grid-cols-2 gap-3">
-        <div className="ml-6  text-xs ">
+        <div className="mx-4  text-xs ">
           <h2 className="text-2xl font-black pl-1">Menu</h2>
           <div className="space-y-3 mt-4">
             {menuItems.map((item) => (
